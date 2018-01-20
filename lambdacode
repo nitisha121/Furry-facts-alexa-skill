@@ -1,4 +1,5 @@
 from __future__ import print_function
+import random
 
 breedfactdict = {
     "Pomeranian": "despite their small size, pomeranians descended from large sled dogs " \
@@ -18,25 +19,7 @@ breedfactdict = {
                  "unlike human babies, chihuahuas may have the spot for their whole life. ",
     "chow chow": "chow chows are known for their distinctive purplish tongues and lips. " \
                  "next time you see a chow chow, sneak a peek in its mouth!",
-    "Pomeranians": "despite their small size, pomeranians descended from large sled dogs " \
-                  "and used to weigh over twenty pounds compared their current weight around seven pounds. ",
-    "poodles": "poodles hesitate to go out when it's raining not because they're scared of " \
-              "rain but because they have very good hearing and are sensitive to the sound of rainfall. ",
-    "pugs": "in 2009, a pug name chester ludlow got his mba degree from rochville online " \
-           "university. ",
-    "Siberian huskies": "a husky's howl can be heard upto ten miles or sixteen kilometers away. ",
-    "Dobermans": "the first dobermann was bred by a tax collector that felt he needed " \
-                 "protection in the shadier parts of his town. ",
-    "golden retrievers": "american presidents ford and raegan both had a golden retriever " \
-                        "as a pet while in office. ",
-    "great Danes": "When great danes are born they weigh about one or two pounds but can grow " \
-                  "to one hundred pounds in just six months. ",
-    "Chihuahuas": "like human babies, chihuahuas are born with molera, a soft spot on their skull. " \
-                 "unlike human babies, chihuahuas may have the spot for their whole life. ",
-    "chow chows": "chow chows are known for their distinctive purplish tongues and lips. " \
-                 "next time you see a chow chow, sneak a peek in its mouth!"
-
-
+    
 }
 
 
